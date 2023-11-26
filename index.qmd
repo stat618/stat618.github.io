@@ -1,0 +1,71 @@
+---
+title: "Likang LI"
+image: likang.png
+about:
+  template: trestles
+  links:
+    - text: Email
+      icon: envelope
+      url: "lilikang@uic.edu.cn"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/stat618"
+    - text: ResearchGate
+      url: "https://www.researchgate.net/profile/Likang-Li-3"
+    - text: ORCID
+      url: "https://orcid.org/my-orcid?orcid=0009-0007-9846-3896"
+    - text: Blog
+      url: "blog.html"
+    # - text: CV
+    #   url: "cv.pdf"
+comments: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+::: column-page
+## Bio
+
+Hello! My name is **Likang LI**. Here is my homepage, I try to make it
+interesting!🙌<br> I am currently an Mphil student, majoring in
+Probability and Mathematical Statistics at [BNU-HKBU United
+International College](https://www.uic.edu.cn/en/), supervised by Prof.
+[**Jianxin PAN**](https://uic.edu.cn/en/faculty.htm#/jianxinpan/en). I
+received my first Master degree from Hong Kong Baptist University in
+2022 and my Bachelor's degree in Network Engineering from Henan
+University in 2020.
+
+My research interests focus on statistical computing and data science. 
+At the same time, I love to code 💻 and aim to extend my research through code! 
+In life, I love running🏃 and swimming🏊, which
+makes me free and happy!<br> 
+Email✉ me if you want to connect with me
+for any fun or collaboration! 
+I'm always eager to learn more and expand my horizons!
+
+
+<p>
+
+</p>
+
+## Selected Projects
+
+#### Publications
+
+**Filtering ground noise from LiDAR returns produces inferior models of
+forest aboveground biomass in heterogenous landscapes.** Mahoney, MJ,
+Johnson, LK, Bevilacqua, E, and Beier, CM. 2022. GIScience & Remote
+Sensing 59(1): 1266-1280.
+<https://doi.org/10.1080/15481603.2022.2103069>
+
+**paper name** 
+paper authors
+<https://doi.org/10.1080/01431161.2022.2155086>
+
+#### R Packages
+
+[**BDregular**](https://mikemahoney218.github.io/waywiser/) \| description \| 2023\
+
+::: 
+

@@ -1,0 +1,34 @@
+project:
+  type: website
+  resources:
+    - keybase.txt
+    - resume.pdf
+    - cv.pdf
+
+website:
+  title: "Likang LI"
+  # site-url: https://mm218.dev
+  description: "statistics, data science, and software engineering"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: ""
+  # comments:
+  #   utterances:
+  #     repo: mikemahoney218/mm218.dev
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Papers"
+        href: papers
+      - text: "Presentations"
+        href: presentations
+      - text: "Blog"
+        href: blog.html
+  page-footer:
+    left: "© Copyright 2023 Likang LI."
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css

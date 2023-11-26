@@ -1,0 +1,191 @@
+{
+  "blog.qmd": {
+    "blog.html": "7cd2fb6c"
+  },
+  "cdi/index.qmd": {
+    "index.html": "bb920b74"
+  },
+  "junkdrawer/a-simple-script/index.qmd": {
+    "index.html": "3dbed442"
+  },
+  "junkdrawer/more-complicated-logic/index.qmd": {
+    "index.html": "75dc7ac6"
+  },
+  "junkdrawer/parameterized-reports/index.qmd": {
+    "index.html": "7ca2d2ce"
+  },
+  "junkdrawer/parameterized-reports/manhattan/index.qmd": {
+    "index.html": "ac9b38d2"
+  },
+  "junkdrawer/parameterized-sql/index.qmd": {
+    "index.html": "f748d508"
+  },
+  "junkdrawer/summer2021/index.Rmd": {
+    "index.html": "4787778b"
+  },
+  "papers/ground_filtering/index.qmd": {
+    "index.html": "2a77610e"
+  },
+  "papers/index.qmd": {
+    "index.html": "23e5956b"
+  },
+  "portfolio/index.qmd": {
+    "index.html": "9941114b"
+  },
+  "posts/2019/03/index.Rmd": {
+    "index.html": "b4e4d531"
+  },
+  "posts/2020/01/index.Rmd": {
+    "index.html": "a39f46be"
+  },
+  "posts/2020/03/index.Rmd": {
+    "index.html": "eb054f09"
+  },
+  "posts/2020/04/corona-viz/index.Rmd": {
+    "index.html": "9f992fb0"
+  },
+  "posts/2020/04/making-excellent-viz/index.Rmd": {
+    "index.html": "027c9f0a"
+  },
+  "posts/2020/04/mechanics-of-viz/index.Rmd": {
+    "index.html": "95c49100"
+  },
+  "posts/2020/04/theory-of-data-viz/index.Rmd": {
+    "index.html": "c74da412"
+  },
+  "posts/2020/05/index.Rmd": {
+    "index.html": "57a092b3"
+  },
+  "posts/2020/06/index.Rmd": {
+    "index.html": "b95e8902"
+  },
+  "posts/2020/10/index.Rmd": {
+    "index.html": "572e9590"
+  },
+  "posts/2021/01/model-averaging/index.Rmd": {
+    "index.html": "a585b733"
+  },
+  "posts/2021/02/terrainr/index.Rmd": {
+    "index.html": "fed9eaff"
+  },
+  "posts/2021-04-22-terrainr-version-040-is-now-on-cran/index.Rmd": {
+    "index.html": "270c3dda"
+  },
+  "posts/2021-06-12-virtual-environments-talk-at-user-2021/index.Rmd": {
+    "index.html": "391e0e0b"
+  },
+  "posts/2021-06-14-interactive-landscape-simulations-for-visual-resource-assessment/index.Rmd": {
+    "index.html": "6396f505"
+  },
+  "posts/2021-09-22-automated-drat-uploads-with-github-actions/index.Rmd": {
+    "index.html": "4b454132"
+  },
+  "posts/2022-01-13-terrainr-an-r-package-for-creating-immersive-virtual-environments/index.Rmd": {
+    "index.html": "e564934d"
+  },
+  "posts/2022-02-18-progress-purpose-process/index.Rmd": {
+    "index.html": "fd2c4138"
+  },
+  "posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/index.qmd": {
+    "index.html": "1782a820"
+  },
+  "posts/2022-08-10-ground-filtering/index.qmd": {
+    "index.html": "2cc1d6bb"
+  },
+  "posts/2022-08-11-waywiser-010-is-now-on-cran/index.qmd": {
+    "index.html": "c7c01154"
+  },
+  "posts/2022-08-15-last-summer/index.qmd": {
+    "index.html": "f9983bce"
+  },
+  "posts/2022-10-04-rsample/index.qmd": {
+    "index.html": "9a2e5979"
+  },
+  "posts/2022-11-07-agb/index.qmd": {
+    "index.html": "fa7032de"
+  },
+  "posts/2022-12-01-sf-in-packages/index.qmd": {
+    "index.html": "c5b2770d"
+  },
+  "posts/2022-12-12-tools/index.qmd": {
+    "index.html": "e1fc15ed"
+  },
+  "posts/2022-12-16-femc/index.qmd": {
+    "index.html": "2c2a2e3f"
+  },
+  "posts/2022-12-21-shrubland/index.qmd": {
+    "index.html": "c2e07603"
+  },
+  "posts/2023-01-17-spatialsample/index.qmd": {
+    "index.html": "95077c1a"
+  },
+  "posts/2023-02-20-tools/index.qmd": {
+    "index.html": "ebd7547f"
+  },
+  "posts/2023-03-03-parallel/index.qmd": {
+    "index.html": "7bb386e3"
+  },
+  "posts/2023-03-21-waywiser-ropensci/index.qmd": {
+    "index.html": "d73c4eb4"
+  },
+  "posts/2023-04-01-fitting_models/index.qmd": {
+    "index.html": "f5bb0c65"
+  },
+  "posts/2023-04-10-quarto_citation_use_count/index.qmd": {
+    "index.html": "dd91b768"
+  },
+  "posts/2023-06-06-spatialsample_splits/index.qmd": {
+    "index.html": "274dda33"
+  },
+  "posts/2023-08-07-vector/index.qmd": {
+    "index.html": "cbdc569e"
+  },
+  "posts/2023-08-24-landsat-scaling/index.qmd": {
+    "index.html": "52d45b85"
+  },
+  "posts/2023-08-29-allocations/index.qmd": {
+    "index.html": "3e3effad"
+  },
+  "posts/2023-09-20-cngf/index.qmd": {
+    "index.html": "577bd4f4"
+  },
+  "posts/2023-10-24-fun-r-funcs/index.qmd": {
+    "index.html": "aeb71386"
+  },
+  "posts/2023-10-26-rsi/index.qmd": {
+    "index.html": "7ed3ddc3"
+  },
+  "posts/2023-10-27-minimal-environments/index.qmd": {
+    "index.html": "1ed81006"
+  },
+  "posts/2023-10-31-map-context/index.qmd": {
+    "index.html": "3561f1ff"
+  },
+  "posts/2023-11-03-spatialsample/index.qmd": {
+    "index.html": "0b5eaa71"
+  },
+  "posts/2023-11-07-classed-errors/index.qmd": {
+    "index.html": "bf6e8171"
+  },
+  "posts/2023-11-21-rsi-null/index.qmd": {
+    "index.html": "484d552d"
+  },
+  "presentations/esip2023poster/index.qmd": {
+    "index.html": "ed13da1f"
+  },
+  "presentations/esip2023talk/index.qmd": {
+    "index.html": "f0837e5a"
+  },
+  "presentations/index.qmd": {
+    "index.html": "10aae129"
+  },
+  "quotes/index.qmd": {
+    "index.html": "794e1fc1"
+  },
+  "software_citations.qmd": {
+    "software_citations.html": "3bc638d5"
+  },
+  "index.qmd": {
+    "index.html": "9323f366"
+  }
+}

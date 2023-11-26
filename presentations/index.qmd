@@ -1,0 +1,13 @@
+<html>
+<head><title>Presentations</title></head>
+<body>
+    <h2>Presentations</h2>
+    As lead/presenting author:
+    <h3>2023</h3>
+    <p>
+        <div><strong>Mapping shrublands across New York State: Targeted ML for informing management decisions.</strong></div>
+        <div>Invited talk, Federation of Earth Science Information Partners (ESIP) July Meeting, Burlington, VT, July 18 2023.</div>
+        <div>Slides available at <a href="https://mm218.dev/esip2023">https://mm218.dev/esip2023</a></div>
+    </p>
+</body>
+</html>
